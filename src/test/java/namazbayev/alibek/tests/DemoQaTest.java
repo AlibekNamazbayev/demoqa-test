@@ -1,4 +1,4 @@
-package namazbayev.alibek;
+package namazbayev.alibek.tests;
 
 import org.junit.jupiter.api.Test;
 
