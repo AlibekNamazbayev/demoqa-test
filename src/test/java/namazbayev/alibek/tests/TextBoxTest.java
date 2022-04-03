@@ -1,4 +1,4 @@
-package namazbayev.alibek;
+package namazbayev.alibek.tests;
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.DisplayName;
